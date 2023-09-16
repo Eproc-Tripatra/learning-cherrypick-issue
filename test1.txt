@@ -10,3 +10,5 @@ test1 baru ada perubahannnn
 ceritanya ini fix dari saya
 
 perubahan ke 2
+
+komit ke 3-4
